@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-<!--
-**bekkaoui99/bekkaoui99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const HamzaBekkaoui = {
+        Bio: "Hey there! I am a software engineering student",
+        Skills: {
+            Web_Development_Technologies: ["HTML5", "CSS3"],
+            Programming_Languages: ["JAVA", "KOTLIN", "JAVASCRIPT", "TYPESCRIPT"]
+            Frameworks: [
+                            Backend:  ["SPRING", "SPRING BOOT", "SPRING DATA", "SPRING SECURITY"] ,
+                            Frontend: ["ANGULAR", "BOOTSTRAP"] ,
+                        ],
+            Design_Patterns: "Understanding of common design patterns",
+            Data_Structures: "Familiarity with fundamental data structures",
+            Databases: ["MySQL", "PostgreSQL"]
+        }
+};
